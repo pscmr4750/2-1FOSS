@@ -25,4 +25,5 @@ case $op in
 	*)
 		echo "Wrong option"
 	;;
+esac
 
